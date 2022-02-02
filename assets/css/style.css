@@ -1,0 +1,120 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+/*========Google font============*/
+
+:root {
+	--primary_color: #0771b9;
+	--secondary-color: #5bc5f3;
+}
+
+input[type="email"]{
+	margin: 20px;
+	padding: 10px;
+}
+input[type="submit"]{
+	margin: 20px;
+	background: #FBDB00;
+	padding: 10px 25px;
+	border-radius: 5px;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	outline: 0px;
+	list-style: none;
+	font-family: 'Open Sans', sans-serif;
+}
+h1 {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;	
+}
+h4{
+	font-family: 'PT Sans', sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+p{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'PT Sans', sans-serif;
+}
+
+h2,h3,h5,h6 {
+	font-family: 'Oswald', sans-serif;
+	margin: 0px;
+	padding: 0px;	
+}
+p{
+	margin: 0px;
+	padding: 0px;
+}
+ul,li,a{
+	margin: 0;
+	padding: 0;
+	font-family: 'PT Sans', sans-serif;
+	text-decoration: none;
+}
+ 
+ /*===========Header Part Start===========*/
+.heade_part{
+	background: url(../img/bg_1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 740px;
+}
+.nav_li {
+	margin-right: 70px;
+	font-weight: bold;
+	font-size: 22px;
+}
+.logo img {
+	padding-right: 5px;
+}
+.apple_icon i{
+	padding-right: 38px;
+}
+/*===========Header Part End===========*/
+
+/*===========Service Part Start===========*/
+.service_part{
+	padding-bottom: 140px;
+}
+.about_head_ser h1 {
+	margin-top: 100px;
+	color: #000;
+}
+.service-img img{
+    color: #fff;
+}
+.service-img img{
+    color: #fff;
+}
+/*===========Service Part End===========*/
+
+/*===========Social Part Start===========*/
+.content {
+	font-size: 20px;
+}
+.soc_icon i {
+	padding: 10px;
+	border-radius: 10px;
+	background: #FBDB00;
+	color: #000;
+	margin: 20px;
+	width: 52px;
+}
+.about_head h1 {
+	margin-top: 60px;
+	color: #FBDB00;
+}
+/*===========Social Part End===========*/
+
+/*===========Service Part Start===========*/
+.cont_con li a{
+	color: #fff;
+}
+/*===========Service Part End===========*/
